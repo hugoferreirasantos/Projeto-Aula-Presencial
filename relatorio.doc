@@ -1,0 +1,170 @@
+<table border=1>
+        <tr>
+          <td>ID</td>
+          <td>NOME</td>
+          <td>FONE</td>
+          <td>EMAIL</td>
+          <td>INSTA</td>
+        </tr>
+<tr bgcolor=#cccccc>
+          <td>3</td>
+          <td>marta nogueira</td>
+          <td>6198551453</td>
+          <td>nogamarta@outlook.com</td>
+          <td>matinha123</td>
+          </tr>
+    <tr bgcolor=#ffffff>
+          <td>7</td>
+          <td>Juliano Pereira dos Santos</td>
+          <td>62 99213-7872</td>
+          <td>julianops79@gmail.com</td>
+          <td>naotenho</td>
+          </tr>
+    <tr bgcolor=#cccccc>
+          <td>8</td>
+          <td>Matheus Martins Carvalho</td>
+          <td>62989654545</td>
+          <td>martinsmatheuscv@gmail.com</td>
+          <td>martinsmatheuscv58</td>
+          </tr>
+    <tr bgcolor=#ffffff>
+          <td>9</td>
+          <td>Matheus Martins Carvalho</td>
+          <td>62989654545</td>
+          <td>martinsmatheuscv@gmail.com</td>
+          <td>martinsmatheuscv58</td>
+          </tr>
+    <tr bgcolor=#cccccc>
+          <td>11</td>
+          <td>cleiton</td>
+          <td>4002-8922</td>
+          <td>Yudi@gmail.com</td>
+          <td>playstation</td>
+          </tr>
+    <tr bgcolor=#ffffff>
+          <td>12</td>
+          <td>wagner freitas</td>
+          <td>6299988888888</td>
+          <td>werwerw</td>
+          <td>erwerwerwe</td>
+          </tr>
+    <tr bgcolor=#cccccc>
+          <td>15</td>
+          <td>Hevaldo</td>
+          <td>62 9 84104827</td>
+          <td>hevaldoal@outlook.com</td>
+          <td>hevaldoal@</td>
+          </tr>
+    <tr bgcolor=#ffffff>
+          <td>16</td>
+          <td>Hevaldo</td>
+          <td>62 9 84104827</td>
+          <td>hevaldoal@outlook.com</td>
+          <td>hevaldoal@</td>
+          </tr>
+    <tr bgcolor=#cccccc>
+          <td>19</td>
+          <td>Natanael</td>
+          <td>2525252525252</td>
+          <td>natanael@natanael.com</td>
+          <td>ghgfhf</td>
+          </tr>
+    <tr bgcolor=#ffffff>
+          <td>23</td>
+          <td>cleiton</td>
+          <td>4002-8922</td>
+          <td>Yudi@gmail.com</td>
+          <td>playstation</td>
+          </tr>
+    <tr bgcolor=#cccccc>
+          <td>24</td>
+          <td>Geovanna</td>
+          <td>62999999999</td>
+          <td>12345@gmail.com</td>
+          <td>geovanna</td>
+          </tr>
+    <tr bgcolor=#ffffff>
+          <td>27</td>
+          <td>Natanael</td>
+          <td>2525252525252</td>
+          <td>natanael@natanael.com</td>
+          <td>ghgfhf</td>
+          </tr>
+    <tr bgcolor=#cccccc>
+          <td>33</td>
+          <td>Gustavo Bruno Sufistao</td>
+          <td>62994990704</td>
+          <td>gustavobrunov8@gmail.com</td>
+          <td>gustavobrunov8</td>
+          </tr>
+    <tr bgcolor=#ffffff>
+          <td>34</td>
+          <td>João Victor Modesto</td>
+          <td>(51) 985342547</td>
+          <td>mandapresente@gmail.com</td>
+          <td>modestoh</td>
+          </tr>
+    <tr bgcolor=#cccccc>
+          <td>35</td>
+          <td>john</td>
+          <td>(62)99156-1180</td>
+          <td>john@gmail.com</td>
+          <td>@john_the_great</td>
+          </tr>
+    <tr bgcolor=#ffffff>
+          <td>36</td>
+          <td>João Victor Modesto</td>
+          <td>(51) 985342547</td>
+          <td>mandapresente@gmail.com</td>
+          <td>@modestoh</td>
+          </tr>
+    <tr bgcolor=#cccccc>
+          <td>37</td>
+          <td>João Victor Modesto</td>
+          <td>(51) 985342547</td>
+          <td>mandapresente@gmail.com</td>
+          <td>modestoh</td>
+          </tr>
+    <tr bgcolor=#ffffff>
+          <td>39</td>
+          <td>cleitin moboy</td>
+          <td>(62)99999-9999</td>
+          <td>cleitindograu@gmail.com</td>
+          <td>@cleitin_do_grau</td>
+          </tr>
+    <tr bgcolor=#cccccc>
+          <td>43</td>
+          <td>Carl Johnson</td>
+          <td>62995665463463</td>
+          <td>grovestreefamily@gmail.com</td>
+          <td>CJ</td>
+          </tr>
+    <tr bgcolor=#ffffff>
+          <td>59</td>
+          <td>Reidelas</td>
+          <td>40028922</td>
+          <td>reidelas@gmail.com</td>
+          <td>reidograu</td>
+          </tr>
+    <tr bgcolor=#cccccc>
+          <td>62</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          </tr>
+    <tr bgcolor=#ffffff>
+          <td>63</td>
+          <td>Reidelas</td>
+          <td>40028922</td>
+          <td>reidelas@gmail.com</td>
+          <td>reidograu</td>
+          </tr>
+    <tr bgcolor=#cccccc>
+          <td>64</td>
+          <td>Daniel Gomes de Oliveira</td>
+          <td>(62)99310-7549</td>
+          <td>dangogyn@gmail.com</td>
+          <td>danielgomes3997</td>
+          </tr>
+    
